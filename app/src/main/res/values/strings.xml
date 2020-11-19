@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SosMedSigIn</string>
+    <string name="facebook_app_id">474492276849127</string>
+    <string name="fb_login_protocol_scheme">fb474492276849127</string>
 </resources>
